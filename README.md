@@ -18,7 +18,9 @@ https://github.com/tyranid/DotNetToJScript
 ```
 Usage:
 
-* Setup a new Listener within PowerShell Empire and use the Launcher command to Generate a PowerShell launcher for this listener.
+* Setup a new Listener within PowerShell Empire.
+
+* Use the Launcher command to Generate a PowerShell launcher for this listener.
 
 * Copy and Replace the Base64 encoded Launcher Payload within the StarFighter JavaScript or VBScript file.
 
