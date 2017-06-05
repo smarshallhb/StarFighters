@@ -37,4 +37,4 @@ Usage:
 
 ### BlueTeam Advice
 * Instead of Blocking PowerShell.exe, make sure you enable PowerShell Constrained Language to all of your users that do not need to use PowerShell for their daily work.
-* Use Device Guard and make sure you only allow signed Java, VBS and PowersShell Scripts to prevent Malicious use.
+* Use Device Guard and make sure you only allow signed Java, VBS and PowerShell Scripts to prevent Malicious use.
