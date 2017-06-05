@@ -18,18 +18,19 @@ https://github.com/tyranid/DotNetToJScript
 ```
 Usage:
 
-Setup a new Listener within PowerShell Empire and use the Launcher command to Generate a PowerShell launcher for this listener.
-Copy and Replace the Base64 encoded Launcher Payload within the StarFighter JavaScript or VBScript file.
+* Setup a new Listener within PowerShell Empire and use the Launcher command to Generate a PowerShell launcher for this listener.
 
-For the JavaScript version use the following Variable: 
+* Copy and Replace the Base64 encoded Launcher Payload within the StarFighter JavaScript or VBScript file.
 
-var EncodedPayload = "<Paste Encoded Launcher Payload Here>"
+* For the JavaScript version use the following Variable: 
 
-For the VBScript version use the following Variable: 
+  var EncodedPayload = "<Paste Encoded Launcher Payload Here>"
+
+* For the VBScript version use the following Variable: 
   
-Dim EncodedPayload: EncodedPayload = "<Paste Encoded Launcher Payload Here>"
+  Dim EncodedPayload: EncodedPayload = "<Paste Encoded Launcher Payload Here>"
 
-Then run: wscript.exe StarFighter.js or StarFighter.vbs on Target, or DoubleClick the launchers within Explorer.
+* Then run: wscript.exe StarFighter.js or StarFighter.vbs on Target, or DoubleClick the launchers within Explorer.
 ```
 
 ### BlueTeam Advice
