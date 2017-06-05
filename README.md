@@ -9,7 +9,7 @@
 
 ### A JavaScript and VBScript Based Empire Launcher - by Cn33liz 2017
 
-Both Launchers run within their own embedded PowerShell Host, so we don't need PowerShell.exe
+Both Launchers run within their own embedded PowerShell Host, so we don't need PowerShell.exe.
 This might be usefull when a company is blocking PowerShell.exe and/or is using a Application Whitelisting solution, but does not block running JS/VBS files.
 
 Empire PowerShell Host build by Cn33liz and embedded within JavaScript using DotNetToJScript from James Forshaw
